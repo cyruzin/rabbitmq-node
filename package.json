@@ -1,0 +1,12 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "Queue study.",
+  "main": "send.js",
+  "author": "Cyro Dubeux",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
